@@ -1,6 +1,6 @@
 let yourfilm = prompt('Введите Ваш любимый фильм', 'Название фильма');
 
-function favoritefilm() {
+function favoriteFilm() {
     if (yourfilm == "Пираты Карибского моря") {
         alert('Прекрасный выбор!');
     }
@@ -15,4 +15,4 @@ function favoritefilm() {
     }
 }
 
-favoritefilm();
+favoriteFilm();
