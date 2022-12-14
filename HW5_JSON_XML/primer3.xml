@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalog>
+    <Film>
+        <Title>Пираты Карибского моря: Сундук мертвеца</Title>
+        <Genre>Фэнтези</Genre>
+        <Year>2006</Year>
+        <Country>США</Country>
+        <Director>
+            <Name>Гор</Name>
+            <Surname>Вербински</Surname>      
+        </Director>
+        <Actor>
+            <Name>Джонни</Name>
+            <Surname>Депп</Surname>  
+        </Actor>
+    </Film>
+    <Film>
+        <Title>Гарри Поттер и философский камень</Title>
+        <Genre>Фэнтези</Genre>
+        <Year>2001</Year>
+        <Country>Великобритания</Country>
+        <Director>
+            <Name>Крис</Name>
+            <Surname>Коламбус</Surname>      
+        </Director>
+        <Actor>
+            <Name>Дэниэл</Name>
+            <Surname>Рэдклифф</Surname>  
+        </Actor>
+    </Film>
+    <Film>
+        <Title>1+1</Title>
+        <Genre>Драма</Genre>
+        <Year>2011</Year>
+        <Country>Франция</Country>
+        <Director>
+            <Name>Оливье</Name>
+            <Surname>Накаш</Surname>      
+        </Director>
+        <Actor>
+            <Name>Франсуа</Name>
+            <Surname>Клюзе</Surname>  
+        </Actor>
+    </Film>
+    <Film>
+        <Title>Один дома</Title>
+        <Genre>Комедия</Genre>
+        <Year>1990</Year>
+        <Country>США</Country>
+        <Director>
+            <Name>Крис</Name>
+            <Surname>Коламбус</Surname>      
+        </Director>
+        <Actor>
+            <Name>Маколей</Name>
+            <Surname>Калкин</Surname>
+        </Actor>
+    </Film>
+    <Film>
+        <Title>Бесславные ублюдки</Title>
+        <Genre>Боевик</Genre>
+        <Year>2009</Year>
+        <Country>Германия</Country>
+        <Director>
+            <Name>Квентин</Name>
+            <Surname>Тарантино</Surname>      
+        </Director>
+        <Actor>
+            <Name>Брэд</Name>
+            <Surname>Питт</Surname>  
+        </Actor>
+    </Film>
+</Catalog>
